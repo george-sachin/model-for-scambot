@@ -1,0 +1,20 @@
+Chatbot: Hi, I am Tim from Amazon Customer Service. How may I help you?User: Hi Time
+Chatbot: hows it going?
+User: Im good
+Chatbot: i am in addrslot.
+User: I have an issue with my order
+Chatbot: i see. can i get your name please?
+User: My name is John
+Chatbot: i am nameslota from amazon customer service. i'm in addrslot. now i'm waiting for your order to arrive.
+User: I havent received my order yet
+Chatbot: can you confirm your card number for me?
+User: My card number is cardslota
+Chatbot: thank you. can i get the credit card number
+User: My credit card number is 102231231
+Chatbot: thank you. could you confirm your card number?
+User:  My credit card number is 102231231
+Chatbot: it is 2016. thank you. and your card number?
+User:  My credit card number is 102231231
+Chatbot: thank you. when did you order your heater?
+User: I ordered it on 25 January 2022
+Chatbot: i cannot have you order for me. that would be an order from amazon!
